@@ -1,0 +1,309 @@
+@media only screen and (max-width:1400px){
+    .modal-content .navbar h1{
+        padding-left: 7px;
+        font-size: 26px;
+    }
+    .modal-content .rel{
+        font-size: 20px;
+    }
+    .data .data1 h2{
+        font-size: 20px;
+    }
+    .data .data2 h2{
+        font-size: 20px;
+    }
+    .data .data1 p{
+        font-size: 14px;
+    }
+    .data .data2 p{
+        font-size: 14px;
+    }
+    .but .slide-prev{
+        font-size: 16px;
+    }
+    .but .slide-next{
+        font-size: 16px;
+    }
+    .modal-content button{
+        font-size: 22px;
+    }
+    .main .head {
+        font-size: 45px;
+    }
+}
+@media only screen and (max-width:1000px){
+    .modal-content{
+        width: 65%;
+    }
+    .modal-content .navbar h1{
+        padding-left: 7px;
+        font-size: 24px;
+    }
+    .data{
+        margin: 10px  auto 0px auto;
+    }
+    .modal-content .rel{
+        padding:10px 0px 10px 10%;
+    }
+    .but .slide-prev{
+        font-size: 14px;
+    }
+    .but .slide-next{
+        font-size: 14px;
+    }
+    .but{
+        height:50px;
+    }
+    .main .head {
+        font-size: 40px;
+    }
+    .parent{
+        grid-column-gap: 10px;
+        grid-row-gap: 10px;
+    }
+    .text{
+        font-size: 14px;
+    }
+    footer{
+        padding: 10px 40px;
+        height: 40px;
+    }
+}
+@media only screen and (max-width:700px){
+    .modal-content{
+        width: 70%;
+    }
+    .modal-content .navbar h1{
+        width:50%;
+        margin-left: 20%;
+        padding-left: 8px;
+        font-size: 20px;
+        padding-top: 10px;
+    }
+    .modal-content .rel{
+        font-size: 16px;
+    }
+    .data{
+        margin: 5px  auto 0px auto;
+    }
+    .data .data1 h2{
+        font-size: 16px;
+    }
+    .data .data2 h2{
+        font-size: 16px;
+    }
+    .data .data1 p{
+        font-size: 10px;
+    }
+    .data .data2 p{
+        font-size: 10px;
+    }
+    .but .slide-prev{
+        font-size: 12px;
+    }
+    .but .slide-next{
+        font-size: 12px;
+        top:35%;
+    }
+    .modal-content button{
+        font-size: 18px;
+    }
+    .but{
+        height:40px;
+    }
+    .modal-content button{
+        height:35px;
+        margin-bottom: 30px;
+    }
+    .main .head {
+        font-size: 30px;
+    }
+    .parent{
+        grid-column-gap: 8px;
+        grid-row-gap: 8px;
+    }
+    .text{
+        font-size: 10px;
+    }
+    nav{
+        height: 130px;
+    }
+    nav ul p{
+        font-size: 20px;
+    }
+    nav ul li{
+        font-size: 15px;
+    }
+    .box1{
+        width: 140px;
+    }
+    .box1 img{
+        width: 50px;
+    }
+    footer{
+        padding: 5px 40px;
+        height: 30px;
+    }
+    footer .box1{
+        width: 400px;
+        font-size: 15px;
+    }
+    footer .box2{
+        width: 150px;
+        float: right;
+    }
+    footer .box2 img{
+        width: 15px;
+        height: 15px;
+        margin-right: 10px;
+    }
+}
+@media only screen and (max-width:550px){
+    .modal-content .navbar h1{
+        font-size: 16px;
+    }
+    .modal-content .rel{
+        font-size: 14px;
+    }
+    .data .data1 h2{
+        font-size: 14px;
+    }
+    .data .data2 h2{
+        font-size: 14px;
+    }
+    .data .data1 p{
+        font-size: 8px;
+    }
+    .data .data2 p{
+        font-size: 8px;
+    }
+    .but .slide-prev{
+        font-size: 10px;
+    }
+    .but .slide-next{
+        font-size: 10px;
+        top:50%;
+    }
+    .modal-content button{
+        font-size: 16px;
+    }
+    .data{
+        margin: 0px  auto 0px auto;
+    }
+    .but{
+        height:30px;
+    }
+    .modal-content button{
+        height:30px;
+        margin-bottom: 30px;
+    }
+    .main .head {
+        font-size: 20px;
+    }
+    .parent{
+        grid-column-gap: 6px;
+        grid-row-gap: 6px;
+    }
+    .text{
+        font-size: 8px;
+    }
+    nav{
+        height: 110px;
+    }
+    nav ul p{
+        font-size: 15px;
+    }
+    nav ul li{
+        font-size: 10px;
+    }
+    .box1{
+        width: 120px;
+    }
+    .box1 img{
+        width: 30px;
+    }
+    footer{
+        padding: 5px 40px;
+        height: 20px;
+    }
+    footer .box1{
+        width: 400px;
+        font-size: 10px;
+    }
+    footer .box2 img{
+        width: 10px;
+        height: 10px;
+    }
+}
+@media only screen and (max-width:450px){
+    .close{
+        margin-top: 0;
+    }
+    .modal-content .navbar{
+        height:40px;
+    }
+    .modal-content .navbar h1{
+        font-size: 10px;
+    }
+    .modal-content .rel{
+        font-size: 10px;
+    }
+    .data .data1 h2{
+        font-size: 10px;
+    }
+    .data .data2 h2{
+        font-size: 10px;
+    }
+    .but .slide-prev{
+        font-size: 6px;
+    }
+    .but .slide-next{
+        font-size: 6px;
+        top:70%;
+    }
+    .modal-content button{
+        font-size: 12px;
+    }
+    .main .head {
+        font-size: 15px;
+    }
+    .parent{
+        grid-column-gap: 4px;
+        grid-row-gap: 4px;
+    }
+    .text{
+        font-size: 6px;
+    }
+    nav{
+        height: 90px;
+    }
+    nav ul{
+        padding-left: 0px;
+    }
+    nav ul p{
+        font-size: 12px;
+    }
+    nav ul li{
+        font-size: 8px;
+    }
+    .box1{
+        width: 100px;
+    }
+    .box1 img{
+        width: 20px;
+    }
+    footer{
+        padding: 0px 40px;
+        height: 20px;
+    }
+    footer .box1{
+        font-size: 8px;
+    }
+    footer .box2{
+        width: 200px;
+    }
+    footer .box2 img{
+        width: 8px;
+        height: 8px;
+    }
+}
